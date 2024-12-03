@@ -29,7 +29,7 @@ This project was undertaken to:
 
 _A Vercel Link of the recreated Zentry.com UI._
 
-🎥 **Live Preview**: [https://gaming-web-site-hazel.vercel.app/](#)
+🎥 **Live Preview**: https://gaming-web-site-hazel.vercel.app/
 
 ---
 
